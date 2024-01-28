@@ -1,0 +1,11 @@
+{
+    "clientid": "sb-be25200a-70dd-4a86-bb45-53ecb3d4025b!b196318|aicore!b164",
+    "clientsecret": "b753fbf0-6513-473f-b017-769a2a4da2c0$c05eOzIeSUVF5FJtAM5IiFQ-Py_QFwQ9sGJcWpC_RFc=",
+    "url": "https://n1hh21tzmymczs72.authentication.us10.hana.ondemand.com",
+    "identityzone": "n1hh21tzmymczs72",
+    "identityzoneid": "fd39004c-0a30-4749-920c-cdc6c444b1e8",
+    "appname": "be25200a-70dd-4a86-bb45-53ecb3d4025b!b196318|aicore!b164",
+    "serviceurls": {
+        "AI_API_URL": "https://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com"
+    }
+}
